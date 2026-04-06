@@ -1,4 +1,6 @@
 # Pipeline de Dados com IoT e Docker
+Link github: https://github.com/mktechnologyweb/Pipeline-de-dados-IoT 
+Link youtub: https://youtu.be/ZePU2CKss3g 
 
 ##  Descrição do Projeto
 
